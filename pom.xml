@@ -5,14 +5,14 @@
 
     <groupId>cc.raupach</groupId>
     <artifactId>HelloMyWorld</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
 
     <name>HelloMyWorld</name>
 
     <scm>
         <connection>scm:git:git@github.com:raupach/HelloMyWorld.git</connection>
         <url>scm:git:git@github.com:raupach/HelloMyWorld.git</url>
-        <tag>HEAD</tag>
+        <tag>HelloMyWorld-0.1.1</tag>
     </scm>
 
     <properties>
