@@ -11,8 +11,8 @@
     <name>HelloMyWorld</name>
 
     <scm>
-        <url>https://github.com/raupach/HelloMyWorld.git</url>
-        <connection>scm:git:https://github.com/raupach/HelloMyWorld.git</connection>
+        <connection>scm:git:git@github.com:raupach/HelloMyWorld.git</connection>
+        <url>scm:git:git@github.com:raupach/HelloMyWorld.git</url>
         <tag>HEAD</tag>
     </scm>
 
